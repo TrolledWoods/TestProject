@@ -20,6 +20,8 @@ namespace TestProject
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("This is the nicest program ever!!!");
+
+            Console.WriteLine("This might be a nice change to the program");
         }
     }
 }
