@@ -25,8 +25,6 @@ namespace TestProject
 
             Console.WriteLine("Hello World");
             Console.WriteLine("Text");
-            Console.WriteLine("More Text");
-            Console.WriteLine("Lorem ipsum");
         }
     }
 }
