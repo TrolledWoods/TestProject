@@ -19,14 +19,12 @@ namespace TestProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Console.WriteLine("This is the nicest program ever!!!");
-
-            Console.WriteLine("This might be a nice change to the program");
-
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Text");
-            Console.WriteLine("More Text");
-            Console.WriteLine("Lorem ipsum");
+            welcome_text();
+        }
+        
+        public void welcome_text()
+        {
+            Console.log("Hello World");
         }
     }
 }
